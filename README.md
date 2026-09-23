@@ -1,3 +1,5 @@
+This is a group assignment project of Artificial Intelligence (AI).
+
 This project performs Exploratory Data Analysis (EDA) and builds a Convolutional Neural Network (CNN) for Facial Expression Recognition (FER) using the FER2013 dataset.
 https://www.kaggle.com/code/drcapa/facial-expression-eda-cnn
 
